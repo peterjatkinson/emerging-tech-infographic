@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.4ff634c7.css",
-    "main.js": "/your-repo-name/static/js/main.ef511303.js",
-    "static/js/453.d05efc34.chunk.js": "/your-repo-name/static/js/453.d05efc34.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.4ff634c7.css.map": "/your-repo-name/static/css/main.4ff634c7.css.map",
-    "main.ef511303.js.map": "/your-repo-name/static/js/main.ef511303.js.map",
-    "453.d05efc34.chunk.js.map": "/your-repo-name/static/js/453.d05efc34.chunk.js.map"
+    "main.css": "/emerging-tech-infographic/static/css/main.4ff634c7.css",
+    "main.js": "/emerging-tech-infographic/static/js/main.b7597325.js",
+    "static/js/453.d05efc34.chunk.js": "/emerging-tech-infographic/static/js/453.d05efc34.chunk.js",
+    "index.html": "/emerging-tech-infographic/index.html",
+    "main.4ff634c7.css.map": "/emerging-tech-infographic/static/css/main.4ff634c7.css.map",
+    "main.b7597325.js.map": "/emerging-tech-infographic/static/js/main.b7597325.js.map",
+    "453.d05efc34.chunk.js.map": "/emerging-tech-infographic/static/js/453.d05efc34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ff634c7.css",
-    "static/js/main.ef511303.js"
+    "static/js/main.b7597325.js"
   ]
 }
